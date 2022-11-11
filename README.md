@@ -1,50 +1,16 @@
-[//]: # (You can remove theses instructions when you have setup the first version of the module)
+# Module 2: Single cell analysis
+This is module two of the [Neural data science course](https://neural-data-science-course.github.io/). In this module we will overview techniques used to characterize the response and the selectivity of single neurons to different stimuli.
+These tools will be applied to paradigmatic examples in systems neuroscience: the selectivity for spatial location in the rodent hippocampus and the receptive fields in primary visual cortex.
 
-## Module template instructions
-This is the template for creating a new module in the 'neural data science course'.
+## Lessons
+01. Tuning curves and spatial selectivity - 60 minutes
+02. Generalized linear models - 60 minutesx
 
-### What is a module?
-A module is a set of lessons revolving around a central topic. 
-The core of each lesson is a jupyter notebook with both working code and explanations.
-See https://github.com/neural-data-science-course/population-methods for an example.
-
-### How to use this template to create a new module?
-  1. Create a new Github repository by clicking the green 'Use this template' button on the top right.
-  2. Create the repository in the neural-data-science-course organisation and give it a title [number]-[module name].
-  3. Submit a pull request that adds a link to the new module to the course website https://github.com/neural-data-science-course/neural-data-science-course.github.io.
-
-### What changes should I make to this README?
-  - [ ] Change the title
-  - [ ] Add a module introduction, introducing the main overarching topic and what a student will learn in the module.
-  - [ ] Adapt the module overview, include how long it takes to teach each lesson in the module.
-  - [ ] Add prerequisites
-  - [ ] Adapt setup instructions if necessary
-  - [ ] Add details about the contributors of this module
-  - [ ] If you want, add how this module should be cited
-  - [ ] Remove (or comment out) these instructions
- 
-### How to create my first lesson?
-   - [ ] Use the `01-lesson1` folder as an example
-   - [ ] Adapt the `lesson-title.ipynb`, this should be the main explanatory resource used for teaching.
-      1. Try to stick to the template as much as possible, so all lessons in the course have a similar look and feel.
-      2. Try to fill the 'In this lesson you will learn' on top and 'Keypoints' in the bottom of the notebook as well as possible. 
-         This will provide a natural intro and ending to the notebook and gives a lot of structure to the course.
-   - [ ] Adapt the `exercises.ipynb`, you can add separate exercises without answers here, these can be used for assignments.
-   - [ ] If necessary add code you use in the notebook in the `code` folder
-   - [ ] To add more lessons, just add more folders with a similar structure
-
-### What other changes should I make?
-   - [ ] Update the `instructor-notes.md` file with instructions for the instructor teaching this module.
-   - [ ] Update the `requirements.txt` file with python packages necessary for this module.
-----
-
-# Module [number]: [module name] 
-Welcome to module [number] of the [Neural Data Science Course]().
-[Module introduction]
 
 ## Prerequisites
 To make the best out of the material of this module, you will need:  
-*
+* Familiarity with python and jupyter
+* Basic knowledge of calculus and linear algebra
 
 ## Setup
 
@@ -84,18 +50,13 @@ jupyter lab
 ### All set!
 You're all set to go through the lessons.
 
-## Module overview
-* 01. [lesson name] - [XX] minutes
-* 02. [lesson name] - [XX] minutes
-
-
 ## Contributors
 This module was created by:  
-* contributor 1  
-* contributor 2  
+* Davide Spalla
+* Francesco Battaglia 
+* Arne Meyer
 
 ## License
-
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
