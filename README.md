@@ -70,4 +70,5 @@ This work is licensed under a
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 ## Citation
-If you want to cite this module, please use:
+If you want to cite this module, please use: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7997224.svg)](https://doi.org/10.5281/zenodo.7997224)
+
